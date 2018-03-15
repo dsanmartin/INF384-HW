@@ -1,2 +1,2 @@
-# INF384-HW
-Homeworks - Models and Quantitative Methods Workshop
+# INF-384 Models and Quantitative Methods Workshop
+## Homeworks 
